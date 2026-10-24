@@ -13,6 +13,7 @@ Will start DSA and some abnormal question with unique solution
 | [0202-happy-number](https://github.com/pariveshrohilla/DSA/tree/main/0202-happy-number/) | Easy |
 | [0263-ugly-number](https://github.com/pariveshrohilla/DSA/tree/main/0263-ugly-number/) | Easy |
 | [0342-power-of-four](https://github.com/pariveshrohilla/DSA/tree/main/0342-power-of-four/) | Easy |
+| [0412-fizz-buzz](https://github.com/pariveshrohilla/DSA/tree/main/0412-fizz-buzz/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,4 +30,12 @@ Will start DSA and some abnormal question with unique solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0342-power-of-four](https://github.com/pariveshrohilla/DSA/tree/main/0342-power-of-four/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/pariveshrohilla/DSA/tree/main/0412-fizz-buzz/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/pariveshrohilla/DSA/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->

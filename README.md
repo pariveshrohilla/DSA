@@ -8,6 +8,7 @@ Will start DSA and some abnormal question with unique solution
 | ------- | ------- |
 | [0202-happy-number](https://github.com/pariveshrohilla/DSA/tree/main/0202-happy-number/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/pariveshrohilla/DSA/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/pariveshrohilla/DSA/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@ Will start DSA and some abnormal question with unique solution
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/pariveshrohilla/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/pariveshrohilla/DSA/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/pariveshrohilla/DSA/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,4 +46,9 @@ Will start DSA and some abnormal question with unique solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/pariveshrohilla/DSA/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/pariveshrohilla/DSA/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2053-kth-distinct-string-in-an-array](https://github.com/pariveshrohilla/DSA/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 <!---LeetCode Topics End-->

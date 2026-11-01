@@ -17,6 +17,7 @@ Will start DSA and some abnormal question with unique solution
 | [0342-power-of-four](https://github.com/pariveshrohilla/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/pariveshrohilla/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0507-perfect-number](https://github.com/pariveshrohilla/DSA/tree/main/0507-perfect-number/) | Easy |
+| [1025-divisor-game](https://github.com/pariveshrohilla/DSA/tree/main/1025-divisor-game/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,4 +53,20 @@ Will start DSA and some abnormal question with unique solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pariveshrohilla/DSA/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/pariveshrohilla/DSA/tree/main/1025-divisor-game/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/pariveshrohilla/DSA/tree/main/1025-divisor-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/pariveshrohilla/DSA/tree/main/1025-divisor-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/pariveshrohilla/DSA/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->

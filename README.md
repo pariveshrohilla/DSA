@@ -16,6 +16,7 @@ Will start DSA and some abnormal question with unique solution
 | [0263-ugly-number](https://github.com/pariveshrohilla/DSA/tree/main/0263-ugly-number/) | Easy |
 | [0342-power-of-four](https://github.com/pariveshrohilla/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/pariveshrohilla/DSA/tree/main/0412-fizz-buzz/) | Easy |
+| [0507-perfect-number](https://github.com/pariveshrohilla/DSA/tree/main/0507-perfect-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |

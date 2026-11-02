@@ -19,6 +19,7 @@ Will start DSA and some abnormal question with unique solution
 | [0507-perfect-number](https://github.com/pariveshrohilla/DSA/tree/main/0507-perfect-number/) | Easy |
 | [1025-divisor-game](https://github.com/pariveshrohilla/DSA/tree/main/1025-divisor-game/) | Easy |
 | [1323-maximum-69-number](https://github.com/pariveshrohilla/DSA/tree/main/1323-maximum-69-number/) | Easy |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/pariveshrohilla/DSA/tree/main/3986-number-of-elapsed-seconds-between-two-times/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@ Will start DSA and some abnormal question with unique solution
 | [0412-fizz-buzz](https://github.com/pariveshrohilla/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/pariveshrohilla/DSA/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pariveshrohilla/DSA/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/pariveshrohilla/DSA/tree/main/3986-number-of-elapsed-seconds-between-two-times/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -19,6 +19,7 @@ Will start DSA and some abnormal question with unique solution
 | [0507-perfect-number](https://github.com/pariveshrohilla/DSA/tree/main/0507-perfect-number/) | Easy |
 | [1025-divisor-game](https://github.com/pariveshrohilla/DSA/tree/main/1025-divisor-game/) | Easy |
 | [1323-maximum-69-number](https://github.com/pariveshrohilla/DSA/tree/main/1323-maximum-69-number/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/pariveshrohilla/DSA/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pariveshrohilla/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/pariveshrohilla/DSA/tree/main/3986-number-of-elapsed-seconds-between-two-times/) | Easy |
 ## Two Pointers

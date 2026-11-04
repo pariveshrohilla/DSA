@@ -7,6 +7,7 @@ Will start DSA and some abnormal question with unique solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/pariveshrohilla/DSA/tree/main/0202-happy-number/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/pariveshrohilla/DSA/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/pariveshrohilla/DSA/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pariveshrohilla/DSA/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 ## Math
@@ -42,6 +43,7 @@ Will start DSA and some abnormal question with unique solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/pariveshrohilla/DSA/tree/main/0412-fizz-buzz/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/pariveshrohilla/DSA/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/pariveshrohilla/DSA/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pariveshrohilla/DSA/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/pariveshrohilla/DSA/tree/main/3986-number-of-elapsed-seconds-between-two-times/) | Easy |
@@ -57,6 +59,7 @@ Will start DSA and some abnormal question with unique solution
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0804-unique-morse-code-words](https://github.com/pariveshrohilla/DSA/tree/main/0804-unique-morse-code-words/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pariveshrohilla/DSA/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pariveshrohilla/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Dynamic Programming

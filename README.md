@@ -19,6 +19,7 @@ Will start DSA and some abnormal question with unique solution
 | [0412-fizz-buzz](https://github.com/pariveshrohilla/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0507-perfect-number](https://github.com/pariveshrohilla/DSA/tree/main/0507-perfect-number/) | Easy |
 | [1025-divisor-game](https://github.com/pariveshrohilla/DSA/tree/main/1025-divisor-game/) | Easy |
+| [1037-valid-boomerang](https://github.com/pariveshrohilla/DSA/tree/main/1037-valid-boomerang/) | Easy |
 | [1323-maximum-69-number](https://github.com/pariveshrohilla/DSA/tree/main/1323-maximum-69-number/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/pariveshrohilla/DSA/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/pariveshrohilla/DSA/tree/main/2843-count-symmetric-integers/) | Easy |
@@ -61,6 +62,7 @@ Will start DSA and some abnormal question with unique solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0804-unique-morse-code-words](https://github.com/pariveshrohilla/DSA/tree/main/0804-unique-morse-code-words/) | Easy |
+| [1037-valid-boomerang](https://github.com/pariveshrohilla/DSA/tree/main/1037-valid-boomerang/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pariveshrohilla/DSA/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pariveshrohilla/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Dynamic Programming
@@ -87,4 +89,8 @@ Will start DSA and some abnormal question with unique solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2843-count-symmetric-integers](https://github.com/pariveshrohilla/DSA/tree/main/2843-count-symmetric-integers/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1037-valid-boomerang](https://github.com/pariveshrohilla/DSA/tree/main/1037-valid-boomerang/) | Easy |
 <!---LeetCode Topics End-->

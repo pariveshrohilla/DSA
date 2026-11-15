@@ -46,6 +46,7 @@ Will start DSA and some abnormal question with unique solution
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/pariveshrohilla/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0709-to-lower-case](https://github.com/pariveshrohilla/DSA/tree/main/0709-to-lower-case/) | Easy |
+| [0796-rotate-string](https://github.com/pariveshrohilla/DSA/tree/main/0796-rotate-string/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/pariveshrohilla/DSA/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/pariveshrohilla/DSA/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pariveshrohilla/DSA/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
@@ -94,4 +95,8 @@ Will start DSA and some abnormal question with unique solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1037-valid-boomerang](https://github.com/pariveshrohilla/DSA/tree/main/1037-valid-boomerang/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/pariveshrohilla/DSA/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->

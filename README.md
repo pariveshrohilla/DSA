@@ -25,6 +25,7 @@ Will start DSA and some abnormal question with unique solution
 | [2843-count-symmetric-integers](https://github.com/pariveshrohilla/DSA/tree/main/2843-count-symmetric-integers/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pariveshrohilla/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/pariveshrohilla/DSA/tree/main/3986-number-of-elapsed-seconds-between-two-times/) | Easy |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/pariveshrohilla/DSA/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +68,7 @@ Will start DSA and some abnormal question with unique solution
 | [1037-valid-boomerang](https://github.com/pariveshrohilla/DSA/tree/main/1037-valid-boomerang/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pariveshrohilla/DSA/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pariveshrohilla/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/pariveshrohilla/DSA/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
